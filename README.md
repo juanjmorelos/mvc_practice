@@ -13,7 +13,7 @@ git clone https://github.com/juanjmorelos/mvc_practice.git
 ```
 2. Dirijase a la carpeta MySQL Database y descargue el archivo `employee_database.sql`, que contiene las tablas de la base de datos utilizada.
 
-3. Cree una base de datos, se recomienda utilizar el nombre `employee_database` e importe los datos que allí se encuentran. Cabe recalcar que se utilizo el gestor de base de datos relacionales MySQL
+3. Cree una base de datos (en MySQL Workbench o phpMyAdmin), se recomienda utilizar el nombre `employee_database` e importe los datos que allí se encuentran. Cabe recalcar que se utilizó el gestor de base de datos relacionales MySQL
 
 Si cambia el nombre de la base de datos prosiga con el paso 4, de lo contrario ya puede compilar el proyecto
 
