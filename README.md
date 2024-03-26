@@ -9,7 +9,7 @@ Para descargar y compilar el siguiente proyecto siga la siguiente instrucciones:
 
 1. Clonar o descargar el repositorio, para clonar use el siguiente comando:
 ```
-git clone https://github.com/juanjmorelos/flutter_cinemapedia.git
+git clone https://github.com/juanjmorelos/mvc_practice.git
 ```
 2. Dirijase a la carpeta MySQL Database y descargue el archivo `employee_database.sql`, que contiene las tablas de la base de datos utilizada.
 
