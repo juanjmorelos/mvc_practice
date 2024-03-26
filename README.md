@@ -17,7 +17,7 @@ git clone https://github.com/juanjmorelos/mvc_practice.git
 
 Si cambia el nombre de la base de datos prosiga con el paso 4, de lo contrario ya puede compilar el proyecto
 
-4. Dirijase al archivo `controller/SQLController.java` y cambie el nombre de la variable `dbName` por el nombre que le proporcionó a la base de datos, de la siguiente forma:
+4. Dirijase al archivo `controller/SQLController.java` y cambie el nombre de la variable `dbName` por el nombre que le proporcionó a la base de datos de la siguiente forma:
 ```java
 public class SQLController {
     private final String dbUser = "root";
